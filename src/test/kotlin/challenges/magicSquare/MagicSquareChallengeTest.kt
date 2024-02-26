@@ -11,7 +11,7 @@ class MagicSquareChallengeTest {
             arrayOf(
                 arrayOf(4, 9, 2),
                 arrayOf(3, 5, 7),
-                arrayOf(8, 1, 5)
+                arrayOf(8, 1, 5) // 6
             )
         )
         assertEquals(1, magicSquareChallenge.execute())
